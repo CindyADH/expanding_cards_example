@@ -1,7 +1,7 @@
 # expanding_cards_example
 An example of expanding cards to be used on a larger project.
 
-Simple html, css, and javascript used in this code sample to show how to change active status of panels. 
+Simple html, css, and javascript used in this code sample to show how to change active status of panels and click/event handlers.
 
 Images used were from Unsplash.
 
